@@ -50,3 +50,38 @@
     margin-top: 20px;
     margin-right: 75px;
 }
+
+.bolo_foto,.salgado,.cone{
+    border: 10px solid transparent;
+    border-radius: 80px;
+    margin-left: 200px;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 25px;
+}
+
+.preco_salgado,.preco_cone,.preco_bolo{
+    margin-left: 200px;
+    background-color: palevioletred;
+    height: 34px;
+    width: 185px;
+    justify-content: center;
+    display: flex ;
+    float: left;
+    border: 2px solid transparent;
+    border-radius:20px;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+
+.salgado{
+    height: 190px;
+    width: 186px;
+}
+
+.preco_salgado,.preco_cone{
+    margin-left: 210px;
+}
